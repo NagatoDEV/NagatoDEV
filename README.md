@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on restoring PlayStation Home [online](https://youtu.be/D7LQP5SDUjU) services. Want to see the Destination Home Teams archive, click [here](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive)!
 - 🧠 I’m currently learning C++ & Linux. 
-- 📫 How to reach me: [Twitter](https://www.youtube.com/channel/UCXgz1g5ET8Un9gax-nGMjMw) | [YouTube](https://www.youtube.com/channel/UCXgz1g5ET8Un9gax-nGMjMw) | [Discord](https://discord.com/invite/nhH6vpX)
+- 📫 How to reach me: [Twitter](https://twitter.com/NagatoRevenge) | [YouTube](https://www.youtube.com/channel/UCXgz1g5ET8Un9gax-nGMjMw) | [Discord](https://discord.com/invite/nhH6vpX)
     
 
 <div>
