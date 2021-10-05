@@ -10,6 +10,6 @@
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=NagatoDev&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NagatoDev&hide=javascript,php,html&layout=compact">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagatoDev&hide=javascript,php,html&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagatoDev&hide=javascript,php,html&layout=compact" />
 </a>
 </div>
