@@ -6,7 +6,7 @@
     
 
 <div>
-<a href="https://github-readme-stats.vercel.app/apiusername=NagatoDevi&count_private=true&show_icons=true&include_all_commits=true">
+<a href="https://github-readme-stats.vercel.app/apiusername=NagatoDev&count_private=true&show_icons=true&include_all_commits=true">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=NagatoDev&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NagatoDev&hide=javascript,php,html&layout=compact">
