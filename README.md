@@ -1,5 +1,8 @@
 # About Me 
 
+
+<img width="1000" alt="GitHubNagatoBanner" src="https://user-images.githubusercontent.com/67494727/140847055-8fe6ecb6-dca3-4ce9-b660-98068356aaed.png">
+
 - 🔭 I’m currently working on restoring PlayStation Home [online](https://youtu.be/D7LQP5SDUjU) services. Want to see the Destination Home Team archive, click [here](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive)!
 - 🧠 I’m currently learning C++ & Linux. 
 
