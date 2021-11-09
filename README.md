@@ -1,13 +1,15 @@
-# About Me
+# About Me 
 
 - 🔭 I’m currently working on restoring PlayStation Home [online](https://youtu.be/D7LQP5SDUjU) services. Want to see the Destination Home Team archive, click [here](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive)!
 - 🧠 I’m currently learning C++ & Linux. 
 
 ### Current Projects:
 
-- [PlayStation Home 1.86 HEN Launcher](https://github.com/DestinationHome/PlayStation-Home-Hen-Offline)
 - [PlayStation Home Master Archive Data-Mining](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive)
-
+- [PlayStation Home 1.86 HEN Launcher](https://github.com/DestinationHome/PlayStation-Home-Hen-Offline)
+- [PlayStation Home Cache Extraction Guide](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)
+- [PlayStation Vita Packet Capture Archive](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures)
+- [PlayStation Home Scene List Spreadsheet](https://github.com/NagatoDEV/PlayStation-Home-Scene-List-Spreadsheet)
 
 ![NagatoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=NagatoDEV&theme=monokai&show_icons=true)
 ![NagatoDev Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NagatoDEV&theme=monokai)
