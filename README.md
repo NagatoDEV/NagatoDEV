@@ -3,6 +3,8 @@
 
 <img width="1000" alt="GitHubNagatoBanner" src="https://user-images.githubusercontent.com/67494727/140847055-8fe6ecb6-dca3-4ce9-b660-98068356aaed.png">
 
+Greetings GitHub, my name is Nagato & I'm a content developer for [Revival Project Destination Home](http://destinationho.me/). Our main focus is to provide a working network server emulation solution for the defunct title [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) for the original PS3 and [RPCS3](https://rpcs3.net/).
+
 - 🔭 I’m currently working on restoring PlayStation Home [online](https://youtu.be/D7LQP5SDUjU) services. Want to see the Destination Home Team archive, click [here](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive)!
 - 🧠 I’m currently learning C++ & Linux. 
 
