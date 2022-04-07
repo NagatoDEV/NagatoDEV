@@ -27,7 +27,7 @@ Greetings GitHub, my name is Nagato & I'm a content developer for [Revival Proje
   <img align="left" alt="SomeonPC | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.reddit.com/user/Nagato-DEV/">
-  <img align="left" alt="NagatoDev | Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+  <img align="left" alt="NagatoDev | Reddit" width="22px" src="https://seeklogo.com/images/R/reddit-logo-23F13F6A6A-seeklogo.com.png" />
 </a>
 <a href="https://www.youtube.com/channel/UCXgz1g5ET8Un9gax-nGMjMw">
   <img align="left" alt="NagatoDev | YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
