@@ -1,4 +1,4 @@
-# <h1 align="center">About Me 👋*</h1>
+# <h1 align="center">About Me 👋</h1>
 
 <img width="1000" alt="GitHubNagatoBanner" src="https://user-images.githubusercontent.com/67494727/140847055-8fe6ecb6-dca3-4ce9-b660-98068356aaed.png">
 
