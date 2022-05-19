@@ -25,6 +25,7 @@ https://user-images.githubusercontent.com/67494727/162342508-cf29cf21-3ec7-4b67-
 - [Destination Home Online](https://github.com/DestinationHome/Destination-Home-Online)
    - [Destination Home Online Japan](https://github.com/DestinationHome/Destination-Home-Online-Japan)
    - [Destination Home Online France](https://github.com/DestinationHome/Destination-Home-Online-French)
+   - [Destination Home Online Italy](https://github.com/DestinationHome/Destination-Home-Online-Italy)
 - [PlayStation Home Master Archive Data-Mining](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive)
 - [PlayStation Home 1.86 HEN Launcher](https://github.com/DestinationHome/PlayStation-Home-Hen-Offline)
 - [PlayStation Home Cache Extraction Guide](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)
