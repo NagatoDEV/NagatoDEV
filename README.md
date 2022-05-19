@@ -44,7 +44,7 @@ https://user-images.githubusercontent.com/67494727/162342508-cf29cf21-3ec7-4b67-
 # <h1 align="center">Contact Me!</h1>
    
 - Have any questions about any of my projects? Feel free to contact me at the following methods:
-
+<p align="center">
 <a href="https://discord.com/invite/nhH6vpX">
   <img align="center" alt="TEAM Nagato width=" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
