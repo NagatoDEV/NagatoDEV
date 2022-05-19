@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/67494727/162342508-cf29cf21-3ec7-4b67-
  
  <p align="center">
      <a href="https://github-readme-stats.vercel.app/api?username=NagatoDEV&theme=monokai&show_icons=true">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagatoDEV&theme=monokai"
+      <img src="https://github-readme-stats.vercel.app/api?username=NagatoDEV&theme=monokai&show_icons=true"
          alt="NagatoDev GitHub stats"></a>
      <a href="https://github-readme-stats.vercel.app/api?username=NagatoDEV&theme=monokai&show_icons=true">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagatoDEV&theme=monokai"
@@ -45,6 +45,7 @@ https://user-images.githubusercontent.com/67494727/162342508-cf29cf21-3ec7-4b67-
    
 - Have any questions about any of my projects? Feel free to contact me at the following methods:
 
+<a href="https://discord.com/invite/nhH6vpX">
   <img align="center" alt="TEAM Nagato width=" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/NagatoRevenge">
