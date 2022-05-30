@@ -26,14 +26,25 @@ https://user-images.githubusercontent.com/67494727/162342508-cf29cf21-3ec7-4b67-
    - [Destination Home Online Japan](https://github.com/DestinationHome/Destination-Home-Online-Japan)
    - [Destination Home Online France](https://github.com/DestinationHome/Destination-Home-Online-French)
    - [Destination Home Online Italy](https://github.com/DestinationHome/Destination-Home-Online-Italy)
-- [PlayStation Home Master Archive Data-Mining](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive)
-- [PlayStation Home Reward Archive Database](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive)
-- [PlayStation Home 1.86 HEN Launcher](https://github.com/DestinationHome/PlayStation-Home-Hen-Offline)
-- [PlayStation Home Cache Extraction Guide](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)
+- [PlayStation®Home Master Archive Data-Mining](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive)
+- [PlayStation®Home Reward Archive Database](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive)
+- [PlayStation®Home 1.86 HEN Launcher](https://github.com/DestinationHome/PlayStation-Home-Hen-Offline)
 - [PlayStation Vita Packet Capture Archive](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures)
-- [PlayStation Home Scene List Spreadsheet](https://github.com/NagatoDEV/PlayStation-Home-Scene-List-Spreadsheet)
+- [PlayStation®Home Scene List Spreadsheet](https://github.com/NagatoDEV/PlayStation-Home-Scene-List-Spreadsheet)
 
- # <h1 align="center">My GitHub Readme Stats 📈:</h1>
+
+# <h1 align="center">📄 Write Ups & Wikis 📚</h1>
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/67494727/171065785-b2d09d43-4d22-4bf3-8d4e-bbaa4a132989.png">
+</p>
+
+
+
+- [PlayStation®Home Cache Extraction Guide](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/): A Comprehensive guide detailing on how to dump/extract PlayStation Home Cache Data.
+- [Destination Home Online Startup Guide](https://github.com/DestinationHome/Destination-Home-Online/wiki): The **official guide** on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/).
+
+# <h1 align="center">My GitHub Readme Stats 📈:</h1>
  
  <p align="center">
      <a href="https://github-readme-stats.vercel.app/api?username=NagatoDEV&theme=monokai&show_icons=true">
