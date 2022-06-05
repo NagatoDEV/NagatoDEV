@@ -22,6 +22,10 @@ https://user-images.githubusercontent.com/67494727/162342508-cf29cf21-3ec7-4b67-
 
 # <h1 align="center">Current Projects:</h1>
 
+<p align="center">
+  <img width="150" height="150" src="https://user-images.githubusercontent.com/67494727/172031199-b1bfac7f-21d0-400a-8caf-3c7d6337721b.png">
+</p>
+
 - [Destination Home Online](https://github.com/DestinationHome/Destination-Home-Online)
    - [Destination Home Online Japan](https://github.com/DestinationHome/Destination-Home-Online-Japan)
    - [Destination Home Online France](https://github.com/DestinationHome/Destination-Home-Online-French)
@@ -39,8 +43,6 @@ https://user-images.githubusercontent.com/67494727/162342508-cf29cf21-3ec7-4b67-
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/67494727/171065785-b2d09d43-4d22-4bf3-8d4e-bbaa4a132989.png">
 </p>
-
-
 
 - [PlayStation®Home Cache Extraction Guide](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/): A comprehensive guide detailing on how to dump/extract PlayStation®Home Cache Data.
 - [Destination Home Online Startup Guide](https://github.com/DestinationHome/Destination-Home-Online/wiki): The **official guide** on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/).
