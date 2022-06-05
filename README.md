@@ -55,7 +55,7 @@ https://user-images.githubusercontent.com/67494727/162342508-cf29cf21-3ec7-4b67-
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagatoDEV&theme=monokai"
          alt="NagatoDev Top Langs"></a>
  
-# <h1 align="center">Contact Me!</h1>
+# <h1 align="center">👨‍💻 Contact Me!</h1>
 
 <p align="center">
      Have any questions about any of my projects? Feel free to contact me at the following methods:
