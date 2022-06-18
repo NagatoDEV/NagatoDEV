@@ -32,6 +32,7 @@ https://user-images.githubusercontent.com/67494727/162342508-cf29cf21-3ec7-4b67-
    - [Destination Home Online Italy](https://github.com/DestinationHome/Destination-Home-Online-Italy)
    - [Destination Home Online Dutch](https://github.com/DestinationHome/Destination-Home-Online-Dutch)
 - [PlayStation®Home Master Archive Data-Mining](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive)
+- [PlayStation®Home Master Archive Expanded-Archive](https://github.com/NagatoDEV/PlayStation-Home-Master-Expanded-Archive)
 - [PlayStation®Home Reward Archive Database](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive)
 - [PlayStation®Home 1.86 HEN Launcher](https://github.com/DestinationHome/PlayStation-Home-Hen-Offline)
 - [PlayStation Vita Packet Capture Archive](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures)
