@@ -1,5 +1,7 @@
 # <h1 align="center">About Me 👋</h1>
 
+
+
 <img width="1000" alt="GitHubNagatoBanner" src="https://user-images.githubusercontent.com/67494727/140847055-8fe6ecb6-dca3-4ce9-b660-98068356aaed.png">
 
 Greetings GitHub, my name is Nagato & I'm a content server developer for [Revival Project Destination Home](http://destinationho.me/). Our main focus is to provide a working network server emulation solution for the defunct title [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) for the original PS3 and [RPCS3](https://rpcs3.net/). To check out our official online progress, please check out the Destination Home Online [repo](https://github.com/DestinationHome/Destination-Home-Online) for our official release.
@@ -14,6 +16,8 @@ Greetings GitHub, my name is Nagato & I'm a content server developer for [Reviva
     <a href="https://www.youtube.com/channel/UCXgz1g5ET8Un9gax-nGMjMw">
         <img src="https://img.shields.io/badge/My%20YouTube%20Channel-Nagato's%20Revenge-ff0000"
             alt="Official Nagato Revenge YouTube Channel"></a>
+     <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCXgz1g5ET8Un9gax-nGMjMw?style=social">
+     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/NagatoDev?style=social">
 
 https://user-images.githubusercontent.com/67494727/162342508-cf29cf21-3ec7-4b67-81e7-e70c431700dc.mp4
 
