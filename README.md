@@ -1,10 +1,8 @@
 # <h1 align="center">About Me 👋</h1>
 
-
-
 <img width="1000" alt="GitHubNagatoBanner" src="https://user-images.githubusercontent.com/67494727/140847055-8fe6ecb6-dca3-4ce9-b660-98068356aaed.png">
 
-Greetings GitHub, my name is Nagato & I'm a content server developer for [Revival Project Destination Home](http://destinationho.me/). Our main focus is to provide a working network server emulation solution for the defunct title [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) for the original PS3 and [RPCS3](https://rpcs3.net/). To check out our official online progress, please check out the Destination Home Online [repo](https://github.com/DestinationHome/Destination-Home-Online) for our official release.
+Greetings **GitHub**, my name is Nagato & I'm a content server developer & video-editor for the [Destination Home Revival Project](http://destinationho.me/). Our main focus is to provide a working & secure **network server emulation solution** for the defunct/discontinued title [**PlayStation®Home**](https://en.wikipedia.org/wiki/PlayStation_Home) for the original **PLAYSTATION®3** and [**RPCS3**](https://rpcs3.net/). To check out our official online progress, please check out the **Destination Home Online** [repo](https://github.com/DestinationHome/Destination-Home-Online) for our official release.
 
   <p align="center">
     <a href="https://twitter.com/NagatoRevenge">
@@ -21,8 +19,8 @@ Greetings GitHub, my name is Nagato & I'm a content server developer for [Reviva
 
 https://user-images.githubusercontent.com/67494727/162342508-cf29cf21-3ec7-4b67-81e7-e70c431700dc.mp4
 
-- 🔭 I’m currently working on restoring PlayStation Home [online](https://youtu.be/D7LQP5SDUjU) services. Want to see the Destination Home Team archive, click [here](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive)!
-- 🧠 I’m currently learning C++ & AWS. 
+- 🔭 I’m currently working on restoring **PlayStation®Home** [online](https://youtu.be/D7LQP5SDUjU) services. Want to see the Destination Home Team archive, click [here](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive)!
+- 🧠 I’m currently learning **C++** & [**Amazon Web Service (AWS) Cloud Computing platform**](https://aws.amazon.com/what-is-aws/?nc2=h_ql_le_int). 
 
 # <h1 align="center">Current Projects:</h1>
 
@@ -50,7 +48,7 @@ https://user-images.githubusercontent.com/67494727/162342508-cf29cf21-3ec7-4b67-
 </p>
 
 - [PlayStation®Home Cache Extraction Guide](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/): A comprehensive guide detailing on how to dump/extract PlayStation®Home Cache Data.
-- [Destination Home Online Startup Guide](https://github.com/DestinationHome/Destination-Home-Online/wiki): The **official guide** on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/).
+- [Destination Home Online Startup Guide](https://github.com/DestinationHome/Destination-Home-Online/wiki): The **official guide** on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original **PLAYSTATION®3** &amp; [**RPCS3**](https://rpcs3.net/).
 
 # <h1 align="center">📈 My GitHub Readme Stats:</h1>
  
