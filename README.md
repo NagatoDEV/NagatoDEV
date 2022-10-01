@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/67494727/162342508-cf29cf21-3ec7-4b67-
 </p>
 
 - [PlayStation®Home Cache Extraction Guide](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/): A comprehensive guide detailing on how to dump/extract PlayStation®Home Cache Data.
-- [Destination Home Online Startup Guide](https://github.com/DestinationHome/Destination-Home-Online/wiki): The **official guide** on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original **PLAYSTATION®3** &amp; [**RPCS3**](https://rpcs3.net/).
+- [Destination Home Online Startup Guide](https://github.com/DestinationHome/Destination-Home-Online/wiki): The **official guide** on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original [**PLAYSTATION®3**](https://en.wikipedia.org/wiki/PlayStation_3) &amp; [**RPCS3**](https://rpcs3.net/).
 
 # <h1 align="center">📈 My GitHub Readme Stats:</h1>
  
